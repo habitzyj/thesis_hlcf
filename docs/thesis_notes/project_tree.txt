@@ -1,0 +1,20 @@
+/workspace/thesis_hlcf
+├─ code
+│  ├─ baseline
+│  ├─ fusion
+│  ├─ repo
+│  └─ scripts
+├─ data
+│  ├─ KITTI
+│  ├─ mini_subset
+│  └─ splits
+├─ docs
+│  ├─ logs
+│  ├─ tables
+│  └─ thesis_notes
+└─ outputs
+   ├─ eval
+   ├─ fusion_preds
+   ├─ lidar_preds
+   ├─ rgb_preds
+   └─ vis
