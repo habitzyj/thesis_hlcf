@@ -5,3 +5,6 @@ __pycache__/
 *.pt
 *.ckpt
 *.log
+
+/code/repo/*
+!/code/repo/.gitkeep
